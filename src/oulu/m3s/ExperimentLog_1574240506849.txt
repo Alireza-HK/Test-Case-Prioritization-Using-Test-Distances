@@ -1,0 +1,165 @@
+Defect4JRevisionModel{project='Time', bugID=1, revisionID=' 9a62b06be5d0df8e833ff8583398cca386608cac', revisionDate='2013-12-02 21:11:47', modifiedSources=2, executedTests=123, failedTests=6} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_1 
+UniqueTestFiles: 123 -> Calculating Distances for allUniquePairs: 7626 
+NormalisedCompressionDistance Took 1.083 seconds 
+JaccardDistance Took 10.577 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=2, revisionID=' 8612f9e5b88c1bea933ef9ab1e431f5db3006b48', revisionDate='2013-12-02 19:14:41', modifiedSources=2, executedTests=123, failedTests=6} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_2 
+UniqueTestFiles: 123 -> Calculating Distances for allUniquePairs: 7626 
+NormalisedCompressionDistance Took 0.521 seconds 
+JaccardDistance Took 10.472 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=3, revisionID=' 8d109fe1a999a11b4557536dd96f9210460a5936', revisionDate='2013-11-27 12:36:35', modifiedSources=1, executedTests=123, failedTests=6} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_3 
+UniqueTestFiles: 123 -> Calculating Distances for allUniquePairs: 7626 
+NormalisedCompressionDistance Took 0.492 seconds 
+JaccardDistance Took 12.277 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=4, revisionID=' 3ba9ba799b3261b7332a467a88be142c83b298fd', revisionDate='2013-11-27 12:36:35', modifiedSources=1, executedTests=123, failedTests=6} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_4 
+UniqueTestFiles: 123 -> Calculating Distances for allUniquePairs: 7626 
+NormalisedCompressionDistance Took 0.498 seconds 
+JaccardDistance Took 12.082 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=5, revisionID=' a6cb59ed2280ab0a32995fa8b5f1a7b0d47cb815', revisionDate='2013-11-01 14:06:59', modifiedSources=1, executedTests=123, failedTests=6} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_5 
+UniqueTestFiles: 123 -> Calculating Distances for allUniquePairs: 7626 
+NormalisedCompressionDistance Took 0.501 seconds 
+JaccardDistance Took 11.949 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=6, revisionID=' 28aeba952e838fb12c9b934ce6ef65658e45d7b2', revisionDate='2013-08-16 14:41:18', modifiedSources=1, executedTests=123, failedTests=6} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_6 
+UniqueTestFiles: 123 -> Calculating Distances for allUniquePairs: 7626 
+NormalisedCompressionDistance Took 0.477 seconds 
+JaccardDistance Took 11.823 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=7, revisionID=' 1adb1e69863dcd1ff282692bf1452c422528eeb9', revisionDate='2013-07-21 01:12:57', modifiedSources=1, executedTests=122, failedTests=5} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_7 
+UniqueTestFiles: 122 -> Calculating Distances for allUniquePairs: 7503 
+NormalisedCompressionDistance Took 0.573 seconds 
+JaccardDistance Took 11.713 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=8, revisionID=' 362ed1787724cda3ded37de2b0aa0f13adf0a66e', revisionDate='2013-07-20 11:49:21', modifiedSources=1, executedTests=122, failedTests=5} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_8 
+UniqueTestFiles: 122 -> Calculating Distances for allUniquePairs: 7503 
+NormalisedCompressionDistance Took 0.481 seconds 
+JaccardDistance Took 13.202 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=9, revisionID=' 96f586cb8dac7eee62e9be519a3eab125c47bb23', revisionDate='2013-07-20 11:49:21', modifiedSources=1, executedTests=122, failedTests=5} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_9 
+UniqueTestFiles: 122 -> Calculating Distances for allUniquePairs: 7503 
+NormalisedCompressionDistance Took 0.490 seconds 
+JaccardDistance Took 14.757 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=10, revisionID=' 3a413d7844c22dc6ddd50bf5d0d55ff3589e47ac', revisionDate='2013-06-16 11:28:26', modifiedSources=1, executedTests=122, failedTests=7} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_10 
+UniqueTestFiles: 122 -> Calculating Distances for allUniquePairs: 7503 
+NormalisedCompressionDistance Took 0.605 seconds 
+JaccardDistance Took 16.599 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=11, revisionID=' 57eb4cbb9044771cd46a9eee0c62016618930226', revisionDate='2013-04-19 15:34:57', modifiedSources=1, executedTests=122, failedTests=6} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_11 
+UniqueTestFiles: 122 -> Calculating Distances for allUniquePairs: 7503 
+NormalisedCompressionDistance Took 0.663 seconds 
+JaccardDistance Took 16.635 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=12, revisionID=' 77a6b3a44da7ae4af62e88b4b27eeefec2d768c2', revisionDate='2012-11-27 12:41:26', modifiedSources=2, executedTests=122, failedTests=7} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_12 
+UniqueTestFiles: 122 -> Calculating Distances for allUniquePairs: 7503 
+NormalisedCompressionDistance Took 0.592 seconds 
+JaccardDistance Took 15.724 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=13, revisionID=' 5d08a1cdbfa6ce86a0baf637493c464e91e91968', revisionDate='2012-09-03 12:00:13', modifiedSources=1, executedTests=122, failedTests=6} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_13 
+UniqueTestFiles: 122 -> Calculating Distances for allUniquePairs: 7503 
+NormalisedCompressionDistance Took 0.577 seconds 
+JaccardDistance Took 13.089 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=14, revisionID=' 2ea856328ed5710537778d755a5ff52a6831a2ee', revisionDate='2012-05-23 12:45:41', modifiedSources=1, executedTests=122, failedTests=6} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_14 
+UniqueTestFiles: 122 -> Calculating Distances for allUniquePairs: 7503 
+NormalisedCompressionDistance Took 0.573 seconds 
+JaccardDistance Took 11.845 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=15, revisionID=' 0cefc4c212e92e5dccdfa658785c419483317558', revisionDate='2012-04-30 12:27:18', modifiedSources=1, executedTests=122, failedTests=6} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_15 
+UniqueTestFiles: 122 -> Calculating Distances for allUniquePairs: 7503 
+NormalisedCompressionDistance Took 0.476 seconds 
+JaccardDistance Took 11.443 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=16, revisionID=' 706513d59425e7a9dc6bdb972f25b03b02e48558', revisionDate='2012-04-30 12:14:37', modifiedSources=1, executedTests=122, failedTests=5} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_16 
+UniqueTestFiles: 122 -> Calculating Distances for allUniquePairs: 7503 
+NormalisedCompressionDistance Took 0.568 seconds 
+JaccardDistance Took 11.491 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=17, revisionID=' a8913f5ad5dfde59263c981c9e9eb28e43fd2e00', revisionDate='2012-02-02 13:09:36', modifiedSources=1, executedTests=122, failedTests=6} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_17 
+UniqueTestFiles: 122 -> Calculating Distances for allUniquePairs: 7503 
+NormalisedCompressionDistance Took 0.484 seconds 
+JaccardDistance Took 12.154 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=18, revisionID=' b609d7d66d180f2eb537b27f5d605d0596e096ce', revisionDate='2011-12-04 12:10:35', modifiedSources=1, executedTests=121, failedTests=6} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_18 
+UniqueTestFiles: 121 -> Calculating Distances for allUniquePairs: 7381 
+NormalisedCompressionDistance Took 0.562 seconds 
+JaccardDistance Took 14.370 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=19, revisionID=' 82c5e4f9550e4df36e07b66f35f7c3e9d7eb5eba', revisionDate='2011-10-24 00:16:21', modifiedSources=1, executedTests=121, failedTests=6} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_19 
+UniqueTestFiles: 121 -> Calculating Distances for allUniquePairs: 7381 
+NormalisedCompressionDistance Took 0.517 seconds 
+JaccardDistance Took 16.881 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=20, revisionID=' a92450e88df85d6b7a0fa53517da46286c24f53f', revisionDate='2011-10-23 13:07:54', modifiedSources=1, executedTests=121, failedTests=5} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_20 
+UniqueTestFiles: 121 -> Calculating Distances for allUniquePairs: 7381 
+NormalisedCompressionDistance Took 0.530 seconds 
+JaccardDistance Took 17.160 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=21, revisionID=' 0973b46039c4db0be3a969d36c220dee1e1fb4da', revisionDate='2011-09-26 13:43:16', modifiedSources=1, executedTests=121, failedTests=5} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_21 
+UniqueTestFiles: 121 -> Calculating Distances for allUniquePairs: 7381 
+NormalisedCompressionDistance Took 0.515 seconds 
+JaccardDistance Took 15.770 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=22, revisionID=' 57c8aaf94b95323c295dcfec5f40f181846164e7', revisionDate='2011-04-01 00:22:59', modifiedSources=1, executedTests=121, failedTests=6} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_22 
+UniqueTestFiles: 121 -> Calculating Distances for allUniquePairs: 7381 
+NormalisedCompressionDistance Took 0.520 seconds 
+JaccardDistance Took 13.459 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=23, revisionID=' 14dedcbc04682c1b1b6c5ebe91bc930b79eeb572', revisionDate='2011-03-31 23:46:38', modifiedSources=1, executedTests=121, failedTests=4} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_23 
+UniqueTestFiles: 121 -> Calculating Distances for allUniquePairs: 7381 
+NormalisedCompressionDistance Took 0.467 seconds 
+JaccardDistance Took 11.654 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=24, revisionID=' d50efdf75a8daeced88d79b168f68d189fb87e13', revisionDate='2011-02-15 14:53:51', modifiedSources=1, executedTests=121, failedTests=4} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_24 
+UniqueTestFiles: 121 -> Calculating Distances for allUniquePairs: 7381 
+NormalisedCompressionDistance Took 0.478 seconds 
+JaccardDistance Took 11.386 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=25, revisionID=' 552be4b677ec30a34d04d234395ba1a8c7beaacf', revisionDate='2010-12-05 23:43:18', modifiedSources=1, executedTests=121, failedTests=5} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_25 
+UniqueTestFiles: 121 -> Calculating Distances for allUniquePairs: 7381 
+NormalisedCompressionDistance Took 0.458 seconds 
+JaccardDistance Took 11.133 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=26, revisionID=' c7a581e55fc988bd90fa4bb1b0acece5181b7c5f', revisionDate='2010-12-05 21:27:36', modifiedSources=1, executedTests=121, failedTests=5} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_26 
+UniqueTestFiles: 121 -> Calculating Distances for allUniquePairs: 7381 
+NormalisedCompressionDistance Took 0.475 seconds 
+JaccardDistance Took 12.193 seconds 
+------------------------------------------------ 
+Defect4JRevisionModel{project='Time', bugID=27, revisionID=' e0559c503f65641b9546c37e7c84c866caf37e66', revisionDate='2010-10-27 23:15:42', modifiedSources=1, executedTests=120, failedTests=5} 
+revisionDirectory: /C:/Temp_local_repo/TestDiversity/out/production/TestDiversity/joda_revisions\rev_27 
+UniqueTestFiles: 120 -> Calculating Distances for allUniquePairs: 7260 
+NormalisedCompressionDistance Took 0.463 seconds 
+JaccardDistance Took 13.465 seconds 
+------------------------------------------------ 
+orderedRandomly: Mean: 47.89 [16.32-68.01] - P25: 39.59 - P50: 51.48 - P75: 58.12 
+orderedByPairwiseUsingNCD: Mean: 75.99 [67.61-84.18] - P25: 74.39 - P50: 76.44 - P75: 78.77 
+orderedByPairwiseUsingJaccard: Mean: 76.95 [71.31-81.55] - P25: 74.39 - P50: 77.25 - P75: 79.09 
