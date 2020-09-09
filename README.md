@@ -1,4 +1,4 @@
-# Test Case Prioritization Using Test Diversity
+# Test Case Prioritization Using Test Distances
 
 This project includes a small experiment which compares different Test Case Prioritization (TCP) techniques. TCP techniques aim to re-order test cases within the regression test suite in order to maximize desirable properties (i.e., early fault detection).
  
